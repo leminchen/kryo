@@ -1,0 +1,1 @@
+Please note that Kryo has moved to GitHub: [Kryo issues](https://github.com/EsotericSoftware/kryo/issues)
